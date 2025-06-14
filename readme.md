@@ -2,7 +2,7 @@
 
 ## Linked List
 
-Linked List (structs containing data as nodes connected with other nodes via pointers)
+Linked List (structs containing data as nodes connected with other nodes via pointers)  
 Linked Stack (LIFO, push and pop at top)  
 Linked Queue (FIFO, push at tail, pop at head)  
 
