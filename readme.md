@@ -1,4 +1,5 @@
-
+## Hashing
+Hash (converts data into hash-code, value after modulus is the index, value after divide is the data)
 
 ## Linked List
 
