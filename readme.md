@@ -26,3 +26,4 @@ binary search (work with array where its elements are ordered properly, algorith
 
 
 
+<img src="https://t.bkit.co/w_686d773d576fa.gif" />
